@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>FreesiA • Posts by &#34;rce&#34; tag</title>
-        <link>http://freesia1014.com</link>
+        <link>https://freesia1014.github.io</link>
         <description>welcome！</description>
         <language>zh-CN</language>
         <pubDate>Sat, 13 Jun 2026 21:12:00 +0800</pubDate>
@@ -10,9 +10,9 @@
         <category>RCE</category>
         <category>安全</category>
         <item>
-            <guid isPermalink="true">http://freesia1014.com/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/</guid>
+            <guid isPermalink="true">https://freesia1014.github.io/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/</guid>
             <title>RCE练习题</title>
-            <link>http://freesia1014.com/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/</link>
+            <link>https://freesia1014.github.io/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/</link>
             <category>RCE</category>
             <category>安全</category>
             <pubDate>Sat, 13 Jun 2026 21:12:00 +0800</pubDate>

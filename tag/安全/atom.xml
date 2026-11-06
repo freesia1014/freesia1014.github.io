@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://freesia1014.com</id>
+    <id>https://freesia1014.github.io</id>
     <title>FreesiA • Posts by &#34;安全&#34; tag</title>
-    <link href="http://freesia1014.com" />
+    <link href="https://freesia1014.github.io" />
     <updated>2026-06-13T13:12:00.000Z</updated>
     <category term="RCE" />
     <category term="安全" />
     <entry>
-        <id>http://freesia1014.com/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/</id>
+        <id>https://freesia1014.github.io/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/</id>
         <title>RCE练习题</title>
-        <link rel="alternate" href="http://freesia1014.com/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/"/>
+        <link rel="alternate" href="https://freesia1014.github.io/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/"/>
         <content type="html">&lt;p&gt;这里是你的文章正文内容...&lt;/p&gt;
 &lt;h2 id=&#34;swpuctf-2023-秋季新生赛rce-plus&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#swpuctf-2023-秋季新生赛rce-plus&#34;&gt;#&lt;/a&gt; [SWPUCTF 2023 秋季新生赛]RCE-PLUS&lt;/h2&gt;
 &lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-php&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span style=&#34;color:#AB5959;--shiki-dark:#CB7676&#34;&gt; &lt;/span&gt;&lt;span style=&#34;color:#AB5959;--shiki-dark:#CB7676&#34;&gt;&amp;#x3C;&lt;/span&gt;&lt;span style=&#34;color:#AB5959;--shiki-dark:#CB7676&#34;&gt;?&lt;/span&gt;&lt;span style=&#34;color:#A65E2B;--shiki-dark:#C99076&#34;&gt;php&lt;/span&gt;&lt;/span&gt;
