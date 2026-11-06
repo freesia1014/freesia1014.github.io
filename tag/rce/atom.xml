@@ -6,6 +6,7 @@
     <updated>2026-06-13T13:12:00.000Z</updated>
     <category term="RCE" />
     <category term="安全" />
+    <category term="XXE" />
     <entry>
         <id>https://freesia1014.github.io/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/</id>
         <title>RCE练习题</title>

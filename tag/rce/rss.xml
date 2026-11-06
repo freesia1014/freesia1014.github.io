@@ -9,6 +9,7 @@
         <lastBuildDate>Sat, 13 Jun 2026 21:12:00 +0800</lastBuildDate>
         <category>RCE</category>
         <category>安全</category>
+        <category>XXE</category>
         <item>
             <guid isPermalink="true">https://freesia1014.github.io/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/</guid>
             <title>RCE练习题</title>
