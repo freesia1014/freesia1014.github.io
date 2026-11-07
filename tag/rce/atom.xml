@@ -4,9 +4,9 @@
     <title>FreesiA • Posts by &#34;rce&#34; tag</title>
     <link href="https://freesia1014.github.io" />
     <updated>2026-06-13T13:12:00.000Z</updated>
-    <category term="RCE" />
-    <category term="安全" />
     <category term="XXE" />
+    <category term="安全" />
+    <category term="RCE" />
     <entry>
         <id>https://freesia1014.github.io/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/</id>
         <title>RCE练习题</title>
@@ -274,8 +274,8 @@
 &lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;?&gt;&amp;#x3C;?= `nl /f*`?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;解释一下，&lt;code&gt;&amp;lt;?=?&amp;gt;&lt;/code&gt;则是相当于&lt;code&gt;&amp;lt;? echo&amp;gt;，payload最前面?&amp;gt;&lt;/code&gt;用于闭合，payload后面一部分相当于echo+反引号执行命令。&lt;/p&gt;
 </content>
-        <category term="RCE" />
         <category term="安全" />
+        <category term="RCE" />
         <updated>2026-06-13T13:12:00.000Z</updated>
     </entry>
 </feed>

@@ -7,15 +7,15 @@
         <language>zh-CN</language>
         <pubDate>Fri, 06 Nov 2026 21:16:00 +0800</pubDate>
         <lastBuildDate>Fri, 06 Nov 2026 21:16:00 +0800</lastBuildDate>
-        <category>RCE</category>
-        <category>安全</category>
         <category>XXE</category>
+        <category>安全</category>
+        <category>RCE</category>
         <item>
             <guid isPermalink="true">https://freesia1014.github.io/2026/11/06/XXE/</guid>
             <title>XXE</title>
             <link>https://freesia1014.github.io/2026/11/06/XXE/</link>
-            <category>安全</category>
             <category>XXE</category>
+            <category>安全</category>
             <pubDate>Fri, 06 Nov 2026 21:16:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;XML External Entity Injection&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;XML外部实体注入&lt;/strong&gt;&lt;/p&gt;
@@ -560,8 +560,8 @@
             <guid isPermalink="true">https://freesia1014.github.io/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/</guid>
             <title>RCE练习题</title>
             <link>https://freesia1014.github.io/2026/06/13/RCE%E7%BB%83%E4%B9%A0%E9%A2%98/</link>
-            <category>RCE</category>
             <category>安全</category>
+            <category>RCE</category>
             <pubDate>Sat, 13 Jun 2026 21:12:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这里是你的文章正文内容...&lt;/p&gt;
 &lt;h2 id=&#34;swpuctf-2023-秋季新生赛rce-plus&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#swpuctf-2023-秋季新生赛rce-plus&#34;&gt;#&lt;/a&gt; [SWPUCTF 2023 秋季新生赛]RCE-PLUS&lt;/h2&gt;

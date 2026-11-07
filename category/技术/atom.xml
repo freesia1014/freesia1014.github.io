@@ -4,9 +4,9 @@
     <title>FreesiA • Posts by &#34;技术&#34; category</title>
     <link href="https://freesia1014.github.io" />
     <updated>2026-11-06T13:16:00.000Z</updated>
-    <category term="RCE" />
-    <category term="安全" />
     <category term="XXE" />
+    <category term="安全" />
+    <category term="RCE" />
     <entry>
         <id>https://freesia1014.github.io/2026/11/06/XXE/</id>
         <title>XXE</title>
@@ -549,8 +549,8 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;/images/xxe/image-20260727173724114.png&#34; alt=&#34;image-20260727173724114&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;最后没有爆破出来&lt;/p&gt;
 </content>
-        <category term="安全" />
         <category term="XXE" />
+        <category term="安全" />
         <updated>2026-11-06T13:16:00.000Z</updated>
     </entry>
     <entry>
@@ -820,8 +820,8 @@
 &lt;pre class=&#34;shiki shiki-themes vitesse-light vitesse-dark&#34; style=&#34;background-color:#ffffff;--shiki-dark-bg:#121212;color:#393a34;--shiki-dark:#dbd7caee&#34; tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span&gt;?&gt;&amp;#x3C;?= `nl /f*`?&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;解释一下，&lt;code&gt;&amp;lt;?=?&amp;gt;&lt;/code&gt;则是相当于&lt;code&gt;&amp;lt;? echo&amp;gt;，payload最前面?&amp;gt;&lt;/code&gt;用于闭合，payload后面一部分相当于echo+反引号执行命令。&lt;/p&gt;
 </content>
-        <category term="RCE" />
         <category term="安全" />
+        <category term="RCE" />
         <updated>2026-06-13T13:12:00.000Z</updated>
     </entry>
 </feed>
